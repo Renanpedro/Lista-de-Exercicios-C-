@@ -1,0 +1,12 @@
+C:\Users\renan\Desktop\Estudo\Lista de Exercicios C#\Exercícios café com leite\Exercicios cafe com leite\Exercicios cafe com leite\bin\Debug\netcoreapp3.1\Media dos Alunos.exe
+C:\Users\renan\Desktop\Estudo\Lista de Exercicios C#\Exercícios café com leite\Exercicios cafe com leite\Exercicios cafe com leite\bin\Debug\netcoreapp3.1\Media dos Alunos.deps.json
+C:\Users\renan\Desktop\Estudo\Lista de Exercicios C#\Exercícios café com leite\Exercicios cafe com leite\Exercicios cafe com leite\bin\Debug\netcoreapp3.1\Media dos Alunos.runtimeconfig.json
+C:\Users\renan\Desktop\Estudo\Lista de Exercicios C#\Exercícios café com leite\Exercicios cafe com leite\Exercicios cafe com leite\bin\Debug\netcoreapp3.1\Media dos Alunos.runtimeconfig.dev.json
+C:\Users\renan\Desktop\Estudo\Lista de Exercicios C#\Exercícios café com leite\Exercicios cafe com leite\Exercicios cafe com leite\bin\Debug\netcoreapp3.1\Media dos Alunos.dll
+C:\Users\renan\Desktop\Estudo\Lista de Exercicios C#\Exercícios café com leite\Exercicios cafe com leite\Exercicios cafe com leite\bin\Debug\netcoreapp3.1\Media dos Alunos.pdb
+C:\Users\renan\Desktop\Estudo\Lista de Exercicios C#\Exercícios café com leite\Exercicios cafe com leite\Exercicios cafe com leite\obj\Debug\netcoreapp3.1\Media dos Alunos.AssemblyInfoInputs.cache
+C:\Users\renan\Desktop\Estudo\Lista de Exercicios C#\Exercícios café com leite\Exercicios cafe com leite\Exercicios cafe com leite\obj\Debug\netcoreapp3.1\Media dos Alunos.AssemblyInfo.cs
+C:\Users\renan\Desktop\Estudo\Lista de Exercicios C#\Exercícios café com leite\Exercicios cafe com leite\Exercicios cafe com leite\obj\Debug\netcoreapp3.1\Media dos Alunos.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\Estudo\Lista de Exercicios C#\Exercícios café com leite\Exercicios cafe com leite\Exercicios cafe com leite\obj\Debug\netcoreapp3.1\Media dos Alunos.dll
+C:\Users\renan\Desktop\Estudo\Lista de Exercicios C#\Exercícios café com leite\Exercicios cafe com leite\Exercicios cafe com leite\obj\Debug\netcoreapp3.1\Media dos Alunos.pdb
+C:\Users\renan\Desktop\Estudo\Lista de Exercicios C#\Exercícios café com leite\Exercicios cafe com leite\Exercicios cafe com leite\obj\Debug\netcoreapp3.1\Media dos Alunos.genruntimeconfig.cache
