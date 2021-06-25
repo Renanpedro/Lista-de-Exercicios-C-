@@ -19,11 +19,13 @@ namespace Exercicios_cafe_com_leite
             {
                 Console.ForegroundColor = ConsoleColor.Green;
                 Console.WriteLine("Acesso liberado");
+                Console.ForegroundColor = ConsoleColor.Gray;
             }
             else
             {
                 Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("Sem permição de acesso");
+                Console.ForegroundColor = ConsoleColor.Gray;
             }
         }
     }

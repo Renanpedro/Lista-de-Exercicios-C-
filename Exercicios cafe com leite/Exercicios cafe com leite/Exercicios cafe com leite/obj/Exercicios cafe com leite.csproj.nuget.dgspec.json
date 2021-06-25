@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\renan\\Desktop\\Estudo\\Lista de Exercicios C#\\Exercícios café com leite\\Exercicios cafe com leite\\Exercicios cafe com leite\\Exercicios cafe com leite.csproj": {}
+    "C:\\Users\\renan\\Desktop\\Estudo\\Lista de Exercicios C#\\Exercicios cafe com leite\\Exercicios cafe com leite\\Exercicios cafe com leite\\Exercicios cafe com leite.csproj": {}
   },
   "projects": {
-    "C:\\Users\\renan\\Desktop\\Estudo\\Lista de Exercicios C#\\Exercícios café com leite\\Exercicios cafe com leite\\Exercicios cafe com leite\\Exercicios cafe com leite.csproj": {
+    "C:\\Users\\renan\\Desktop\\Estudo\\Lista de Exercicios C#\\Exercicios cafe com leite\\Exercicios cafe com leite\\Exercicios cafe com leite\\Exercicios cafe com leite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\renan\\Desktop\\Estudo\\Lista de Exercicios C#\\Exercícios café com leite\\Exercicios cafe com leite\\Exercicios cafe com leite\\Exercicios cafe com leite.csproj",
+        "projectUniqueName": "C:\\Users\\renan\\Desktop\\Estudo\\Lista de Exercicios C#\\Exercicios cafe com leite\\Exercicios cafe com leite\\Exercicios cafe com leite\\Exercicios cafe com leite.csproj",
         "projectName": "Exercicios cafe com leite",
-        "projectPath": "C:\\Users\\renan\\Desktop\\Estudo\\Lista de Exercicios C#\\Exercícios café com leite\\Exercicios cafe com leite\\Exercicios cafe com leite\\Exercicios cafe com leite.csproj",
+        "projectPath": "C:\\Users\\renan\\Desktop\\Estudo\\Lista de Exercicios C#\\Exercicios cafe com leite\\Exercicios cafe com leite\\Exercicios cafe com leite\\Exercicios cafe com leite.csproj",
         "packagesPath": "C:\\Users\\renan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\renan\\Desktop\\Estudo\\Lista de Exercicios C#\\Exercícios café com leite\\Exercicios cafe com leite\\Exercicios cafe com leite\\obj\\",
+        "outputPath": "C:\\Users\\renan\\Desktop\\Estudo\\Lista de Exercicios C#\\Exercicios cafe com leite\\Exercicios cafe com leite\\Exercicios cafe com leite\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "G:\\VISUL STUDIO COMMUNITY 2019\\NuGetPackages"

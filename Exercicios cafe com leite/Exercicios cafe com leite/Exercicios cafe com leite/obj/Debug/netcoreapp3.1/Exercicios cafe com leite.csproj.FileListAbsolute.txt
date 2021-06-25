@@ -11,3 +11,16 @@ C:\Users\renan\Desktop\Estudo\Lista de Exercicios C#\Exercícios café com leite
 C:\Users\renan\Desktop\Estudo\Lista de Exercicios C#\Exercícios café com leite\Exercicios cafe com leite\Exercicios cafe com leite\obj\Debug\netcoreapp3.1\Exercicios cafe com leite.dll
 C:\Users\renan\Desktop\Estudo\Lista de Exercicios C#\Exercícios café com leite\Exercicios cafe com leite\Exercicios cafe com leite\obj\Debug\netcoreapp3.1\Exercicios cafe com leite.pdb
 C:\Users\renan\Desktop\Estudo\Lista de Exercicios C#\Exercícios café com leite\Exercicios cafe com leite\Exercicios cafe com leite\obj\Debug\netcoreapp3.1\Exercicios cafe com leite.genruntimeconfig.cache
+C:\Users\renan\Desktop\Estudo\Lista de Exercicios C#\Exercicios cafe com leite\Exercicios cafe com leite\Exercicios cafe com leite\bin\Debug\netcoreapp3.1\Exercicios cafe com leite.exe
+C:\Users\renan\Desktop\Estudo\Lista de Exercicios C#\Exercicios cafe com leite\Exercicios cafe com leite\Exercicios cafe com leite\bin\Debug\netcoreapp3.1\Exercicios cafe com leite.deps.json
+C:\Users\renan\Desktop\Estudo\Lista de Exercicios C#\Exercicios cafe com leite\Exercicios cafe com leite\Exercicios cafe com leite\bin\Debug\netcoreapp3.1\Exercicios cafe com leite.runtimeconfig.json
+C:\Users\renan\Desktop\Estudo\Lista de Exercicios C#\Exercicios cafe com leite\Exercicios cafe com leite\Exercicios cafe com leite\bin\Debug\netcoreapp3.1\Exercicios cafe com leite.runtimeconfig.dev.json
+C:\Users\renan\Desktop\Estudo\Lista de Exercicios C#\Exercicios cafe com leite\Exercicios cafe com leite\Exercicios cafe com leite\bin\Debug\netcoreapp3.1\Exercicios cafe com leite.dll
+C:\Users\renan\Desktop\Estudo\Lista de Exercicios C#\Exercicios cafe com leite\Exercicios cafe com leite\Exercicios cafe com leite\bin\Debug\netcoreapp3.1\Exercicios cafe com leite.pdb
+C:\Users\renan\Desktop\Estudo\Lista de Exercicios C#\Exercicios cafe com leite\Exercicios cafe com leite\Exercicios cafe com leite\obj\Debug\netcoreapp3.1\Exercicios cafe com leite.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\Estudo\Lista de Exercicios C#\Exercicios cafe com leite\Exercicios cafe com leite\Exercicios cafe com leite\obj\Debug\netcoreapp3.1\Exercicios cafe com leite.AssemblyInfoInputs.cache
+C:\Users\renan\Desktop\Estudo\Lista de Exercicios C#\Exercicios cafe com leite\Exercicios cafe com leite\Exercicios cafe com leite\obj\Debug\netcoreapp3.1\Exercicios cafe com leite.AssemblyInfo.cs
+C:\Users\renan\Desktop\Estudo\Lista de Exercicios C#\Exercicios cafe com leite\Exercicios cafe com leite\Exercicios cafe com leite\obj\Debug\netcoreapp3.1\Exercicios cafe com leite.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\Estudo\Lista de Exercicios C#\Exercicios cafe com leite\Exercicios cafe com leite\Exercicios cafe com leite\obj\Debug\netcoreapp3.1\Exercicios cafe com leite.dll
+C:\Users\renan\Desktop\Estudo\Lista de Exercicios C#\Exercicios cafe com leite\Exercicios cafe com leite\Exercicios cafe com leite\obj\Debug\netcoreapp3.1\Exercicios cafe com leite.pdb
+C:\Users\renan\Desktop\Estudo\Lista de Exercicios C#\Exercicios cafe com leite\Exercicios cafe com leite\Exercicios cafe com leite\obj\Debug\netcoreapp3.1\Exercicios cafe com leite.genruntimeconfig.cache
