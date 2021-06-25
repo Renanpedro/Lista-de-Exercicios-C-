@@ -4,7 +4,7 @@
 - **Calculadora -** Desenvolva uma calculadora, onde será necessário entrar com a operação, primeiro e segundo valor, exiba o resultado na tela.
 - **Calculadora de Conversão -** Cria uma calculado que converta as seguinte situações abaixo:
   - Converter de Polegadas para centímetros
-  -  Converter de Fahrenheit para Celsius
+  - Converter de Fahrenheit para Celsius
   - Converter de Milhas para Quilômetros
   - Converter de Reais para Dólares
 - **Mais de dezoito anos -** Faça um algoritmo que exiba quantas pessoas possuem mais de 18 anos. O algoritmo deverá ler a idade de 10 pessoas.
