@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\renan\\Desktop\\Estudo\\Lista de Exercicios C#\\Exercicios cafe com leite\\Exercicios cafe com leite\\Exercicios cafe com leite\\Exercicios cafe com leite.csproj",
-      "projectName": "Exercicios cafe com leite",
-      "projectPath": "C:\\Users\\renan\\Desktop\\Estudo\\Lista de Exercicios C#\\Exercicios cafe com leite\\Exercicios cafe com leite\\Exercicios cafe com leite\\Exercicios cafe com leite.csproj",
+      "projectUniqueName": "C:\\Users\\renan\\Desktop\\Estudo\\Lista de Exercicios C#\\Exercicios cafe com leite\\Exercicios cafe com leite\\Exercicios cafe com leite\\Lista_de_Exercicios.csproj",
+      "projectName": "Lista_de_Exercicios",
+      "projectPath": "C:\\Users\\renan\\Desktop\\Estudo\\Lista de Exercicios C#\\Exercicios cafe com leite\\Exercicios cafe com leite\\Exercicios cafe com leite\\Lista_de_Exercicios.csproj",
       "packagesPath": "C:\\Users\\renan\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\renan\\Desktop\\Estudo\\Lista de Exercicios C#\\Exercicios cafe com leite\\Exercicios cafe com leite\\Exercicios cafe com leite\\obj\\",
       "projectStyle": "PackageReference",

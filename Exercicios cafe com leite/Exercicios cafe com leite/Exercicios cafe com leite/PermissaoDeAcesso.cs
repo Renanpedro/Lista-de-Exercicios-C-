@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Exercicios_cafe_com_leite
+namespace Lista_de_Exercicios
 {
     class PermissaoDeAcesso
     {

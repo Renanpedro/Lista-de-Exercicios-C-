@@ -17,3 +17,6 @@
 
 - **Dinheiro Gasto Fumando -** Calcular a quantidade de dinheiro gasta por um fumante. Dados: o número de anos que ele fuma, o nº de cigarros fumados por dia e o preço de uma carteira.
 
+- **Nome Igual O Meu -** Ler um nome do teclado e verificar se é igual ao seu nome. Imprimir conforme o caso: " NOME CORRETO"  ou  "NOME INCORRETO".
+
+- **Soma dos Pares -** Ler 4 números inteiros e calcular a soma dos que forem par.

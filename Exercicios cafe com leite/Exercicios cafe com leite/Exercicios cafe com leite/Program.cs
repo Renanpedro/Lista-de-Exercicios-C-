@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Exercicios_cafe_com_leite
+namespace Lista_de_Exercicios
 {
     class Program
     {
@@ -38,6 +38,8 @@ namespace Exercicios_cafe_com_leite
                 Console.WriteLine("8 - Calculadora De Conversão");
                 Console.WriteLine("9 - Maior Menor Media e Soma");
                 Console.WriteLine("10 - Dinheiro gasto com cigarro");
+                Console.WriteLine("11 - Nome igual o meu");
+                Console.WriteLine("12 - Soma dos Pares");
                 Console.WriteLine(" ");
                 VoltaCorNormal();
 
@@ -90,7 +92,16 @@ namespace Exercicios_cafe_com_leite
                         DinheiroGastoFumante.Executar();
                         break;
 
+                    case 11:
+                        NomeIgualOMeu.Executar();
+                        break;
+
+                    case 12:
+                        SomaDosPares.Executar();
+                        break;
+
                     default:
+                        Console.WriteLine("Opção não encontrada, digite uma opção válida");
                         break;
                 }
                 Console.WriteLine("Deseja testar outro dos nossos programas? (S/N)");

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Exercicios_cafe_com_leite
+namespace Lista_de_Exercicios
 {
     class ReajusteSalario
     {
